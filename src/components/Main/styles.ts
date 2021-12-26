@@ -29,7 +29,7 @@ export const Container = styled.div`
     position: absolute;
     width: 100px;
     height: 96.77px;
-    left: 1350px;
+    left: 1316px;
     margin-top: -237px;
 }
 .pimenta{
@@ -40,7 +40,7 @@ export const Container = styled.div`
 
 export const Preco = styled.div`
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 
     margin-top: 140px;
  
